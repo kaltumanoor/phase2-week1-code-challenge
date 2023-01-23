@@ -26,7 +26,9 @@ You may also see any lint errors in the console.
 
 ## deployment
 
-used vercel server to deploy from github. use the following link to view the site
+This is the deployment link :
+
+         phase2-week1-code-challenge-4o47.vercel.app
 
     
 
